@@ -1,4 +1,3 @@
-import boto3
-
-s3 = boto3.client('s3')
-s3.create_bucket(Bucket='my-bucket-hem')
+x = 3
+y =4
+print("adition",x+y)
